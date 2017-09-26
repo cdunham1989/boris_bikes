@@ -1,3 +1,5 @@
-describe Docking_station do
+require "dockingstation.rb"
+
+describe DockingStation do
 
 end
