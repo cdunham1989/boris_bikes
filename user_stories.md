@@ -1,4 +1,4 @@
-#Example
+# Example
 As a user,
 So I can find customers,
 I want to search for my customers by their surnames.
@@ -9,7 +9,7 @@ I want to search for my customers by their surnames.
 | Customer	| find_by_surname|
 
 
-##1.
+## 1.
 As a person,
 So that I can use a bike,
 I'd like a docking station to release a bike.
@@ -29,7 +29,7 @@ release
 | Bike     | Use       |
 | Docking_station| Release   |
 
-##2.
+## 2.
 As a person,
 So that I can use a good bike,
 I'd like to see if a bike is working
@@ -49,7 +49,7 @@ condition
 | Docking_station| Release|
 
 
-##Diagrams
+## Diagrams
 
 Person --> Working? (true/false?)
 Docking Station --> Bike Release --> Bike
