@@ -1,6 +1,6 @@
 # Example
-As a user,
-So I can find customers,
+As a user,   
+So I can find customers,   
 I want to search for my customers by their surnames.
 
 | Objects	  | Messages  |
@@ -10,17 +10,17 @@ I want to search for my customers by their surnames.
 
 
 ## 1.
-As a person,
-So that I can use a bike,
+As a person,   
+So that I can use a bike,   
 I'd like a docking station to release a bike.
 
-nouns:
-person
-bike
+nouns:   
+person   
+bike   
 docking stations
 
-verbs:
-use
+verbs:   
+use   
 release
 
 | Objects	 | Messages  |
@@ -30,16 +30,16 @@ release
 | Docking_station| Release   |
 
 ## 2.
-As a person,
-So that I can use a good bike,
+As a person,   
+So that I can use a good bike,   
 I'd like to see if a bike is working
 
-nouns:
-person
+nouns:   
+person   
 bike
 
-verbs:
-use
+verbs:   
+use   
 condition
 
 | Objects	 | Messages  |
@@ -51,5 +51,5 @@ condition
 
 ## Diagrams
 
-Person --> Working? (true/false?)
+Person --> Working? (true/false?)   
 Docking Station --> Bike Release --> Bike
