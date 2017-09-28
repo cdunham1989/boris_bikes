@@ -1,7 +1,8 @@
 # Boris Bikes:
 
 Tuesday 26th - Paired with Rory Collins   
-Wednesday 27th - Paired with Hugo Sykes
+Wednesday 27th - Paired with Hugo Sykes   
+Thursday 28th - Paired with Alex Scott-Tonge
 
 Build a program that will emulate all the docking stations, bikes, and infrastructure (repair staff, and so on) required to make their dream a reality.
 
