@@ -26,14 +26,8 @@ describe DockingStation do
 
   describe '#dock' do
 
-    it 'docks a bike' do
-      bike = Bike.new
-      docking_station.dock(bike)
-      expect(docking_station.bike).to eq bike
-    end
-
     it 'raises an error when full' do
-      docking_station.dock(Bike.new)
+      20.times { docking_station.dock Bike.new }
       expect { docking_station.dock Bike.new }.to raise_error 'Dock full!'
     end
   end
